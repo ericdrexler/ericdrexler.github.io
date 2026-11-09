@@ -1,0 +1,22 @@
+# K. Eric Drexler — Research and writing
+
+> An entry point to K. Eric Drexler's research library and writing. Research and library items have their own authorship, version, status, and rights information.
+
+## Research library
+
+- [Library reading guide](https://ericdrexler.github.io/research-library/llms.txt): a plain-text guide linking to library material.
+- [Library catalogue](https://ericdrexler.github.io/research-library/INDEX.md): items, authors, dates, status, and descriptions.
+- [Library overview and rights](https://ericdrexler.github.io/research-library/README.md): purpose, structure, and reuse terms.
+- [Library conventions](https://ericdrexler.github.io/research-library/CONVENTIONS.md): metadata and organisation.
+- [Library website](https://ericdrexler.github.io/research-library/): HTML pages and links to plain-text files.
+- [Source repository](https://github.com/ericdrexler/research-library): source files and revision history.
+
+## Other entry points
+
+- [Homepage](https://ericdrexler.github.io/): the public landing page.
+- [GitHub profile](https://github.com/ericdrexler): public repositories.
+- [AI Prospects](https://aiprospects.substack.com/): Substack writing.
+
+## Attribution and rights
+
+The library is maintained by K. Eric Drexler, but not every item is authored by him. Consult each item's metadata. The library states CC0 with exceptions, including third-party works and quotations; do not assume that every linked work shares that dedication.
